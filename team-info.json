@@ -1,0 +1,33 @@
+{
+    "team_name": "Online Crew",
+    "students": [
+        {
+            "student_id": "k12443138",
+            "first_name": "Muhammad Ejaz Habib",
+            "last_name": "Dar",
+            "email": "k12443138@students.jku.at",
+            "github_user": "EjazHabibDar14"
+        },
+        {
+            "student_id": "k12443710",
+            "first_name": "Muhammad",
+            "last_name": "Abdullah",
+            "email": "k12443710@students.jku.at",
+            "github_user": "Abdullah171"
+        },
+        {
+            "student_id": "k12122592",
+            "first_name": "Fabian",
+            "last_name": "Spann",
+            "email": "k12122592@students.jku.at",
+            "github_user": "FabianSpann"
+        },
+        {
+            "student_id": "k12105567",
+            "first_name": "Ronald",
+            "last_name": "Pohl",
+            "email": "k12105567@students.jku.at",
+            "github_user": "ronni2412"
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+  "model": "llava-hf/llava-1.5-7b-hf (4-bit NF4)",
+  "metrics_by_split": {
+    "random": {
+      "accuracy": 0.877,
+      "precision": 0.971,
+      "recall": 0.777,
+      "F1": 0.863,
+      "yes_ratio": 0.4,
+      "hallucination_rate": 0.023,
+      "miss_rate": 0.223
+    },
+    "popular": {
+      "accuracy": 0.86,
+      "precision": 0.931,
+      "recall": 0.778,
+      "F1": 0.848,
+      "yes_ratio": 0.418,
+      "hallucination_rate": 0.057,
+      "miss_rate": 0.222
+    },
+    "adversarial": {
+      "accuracy": 0.838,
+      "precision": 0.884,
+      "recall": 0.777,
+      "F1": 0.827,
+      "yes_ratio": 0.44,
+      "hallucination_rate": 0.102,
+      "miss_rate": 0.223
+    }
+  },
+  "top_hallucinated_objects": {
+    "truck": {
+      "n": 88,
+      "hall_rate": 0.239
+    },
+    "bowl": {
+      "n": 49,
+      "hall_rate": 0.184
+    },
+    "handbag": {
+      "n": 72,
+      "hall_rate": 0.181
+    },
+    "oven": {
+      "n": 19,
+      "hall_rate": 0.158
+    },
+    "tie": {
+      "n": 19,
+      "hall_rate": 0.158
+    },
+    "traffic light": {
+      "n": 57,
+      "hall_rate": 0.158
+    },
+    "backpack": {
+      "n": 79,
+      "hall_rate": 0.139
+    },
+    "bottle": {
+      "n": 100,
+      "hall_rate": 0.13
+    },
+    "bear": {
+      "n": 26,
+      "hall_rate": 0.115
+    },
+    "cup": {
+      "n": 246,
+      "hall_rate": 0.11
+    }
+  },
+  "hall_rate_cooc_low(<0.1)": 0.017,
+  "hall_rate_cooc_high(>=0.4)": 0.111,
+  "strongest_triggers": [
+    {
+      "present": "knife",
+      "queried": "cup",
+      "mean": 0.5,
+      "size": 14
+    },
+    {
+      "present": "bench",
+      "queried": "chair",
+      "mean": 0.483,
+      "size": 29
+    },
+    {
+      "present": "sheep",
+      "queried": "car",
+      "mean": 0.455,
+      "size": 11
+    },
+    {
+      "present": "donut",
+      "queried": "dining table",
+      "mean": 0.444,
+      "size": 9
+    },
+    {
+      "present": "pizza",
+      "queried": "cup",
+      "mean": 0.429,
+      "size": 21
+    },
+    {
+      "present": "truck",
+      "queried": "car",
+      "mean": 0.4,
+      "size": 30
+    },
+    {
+      "present": "couch",
+      "queried": "chair",
+      "mean": 0.4,
+      "size": 25
+    },
+    {
+      "present": "cell phone",
+      "queried": "bottle",
+      "mean": 0.4,
+      "size": 10
+    },
+    {
+      "present": "traffic light",
+      "queried": "truck",
+      "mean": 0.4,
+      "size": 10
+    },
+    {
+      "present": "car",
+      "queried": "truck",
+      "mean": 0.391,
+      "size": 46
+    }
+  ],
+  "logreg_standardized_coefs": {
+    "co-occurrence": 0.856,
+    "log object frequency": -0.545,
+    "objects in image": 0.055
+  },
+  "share_hallucinations_with_p_yes>0.9": 0.073,
+  "median_p_yes_hallucinations": 0.688,
+  "median_p_yes_correct_yes": 0.932,
+  "hall_rate_by_clutter": {
+    "1\u20132": 0.045,
+    "3\u20135": 0.052,
+    "6\u201310": 0.076,
+    "11\u201320": 0.058,
+    ">20": 0.07
+  },
+  "miss_rate_by_size": {
+    "<0.5%": 0.357,
+    "0.5\u20132%": 0.288,
+    "2\u20135%": 0.115,
+    "5\u201315%": 0.068,
+    ">15%": 0.043
+  },
+  "cluster_profile": [
+    {
+      "cluster": "1",
+      "images": 80,
+      "mean_hall": 0.78,
+      "mean_instances": 12.12,
+      "typical_content": "person, car, handbag, motorcycle, bicycle",
+      "most_hallucinated": "truck, chair, car, handbag, backpack"
+    },
+    {
+      "cluster": "0",
+      "images": 88,
+      "mean_hall": 0.64,
+      "mean_instances": 8.85,
+      "typical_content": "person, cup, chair, dining table, bottle",
+      "most_hallucinated": "dining table, chair, car, bottle, handbag"
+    },
+    {
+      "cluster": "2",
+      "images": 71,
+      "mean_hall": 0.61,
+      "mean_instances": 8.42,
+      "typical_content": "dining table, cup, person, bowl, pizza",
+      "most_hallucinated": "bowl, dining table, cup, bottle, person"
+    },
+    {
+      "cluster": "4",
+      "images": 48,
+      "mean_hall": 0.52,
+      "mean_instances": 7.69,
+      "typical_content": "tv, person, laptop, keyboard, mouse",
+      "most_hallucinated": "chair, bottle, tv, vase, car"
+    },
+    {
+      "cluster": "3",
+      "images": 54,
+      "mean_hall": 0.48,
+      "mean_instances": 6.52,
+      "typical_content": "chair, bed, vase, book, potted plant",
+      "most_hallucinated": "cup, vase, book, chair, cell phone"
+    },
+    {
+      "cluster": "7",
+      "images": 62,
+      "mean_hall": 0.42,
+      "mean_instances": 11.65,
+      "typical_content": "person, car, truck, bus, traffic light",
+      "most_hallucinated": "traffic light, truck, car, handbag, bicycle"
+    },
+    {
+      "cluster": "6",
+      "images": 41,
+      "mean_hall": 0.41,
+      "mean_instances": 8.49,
+      "typical_content": "person, sports ball, tennis racket, baseball bat, baseball glove",
+      "most_hallucinated": "chair, cup, truck, car, baseball bat"
+    },
+    {
+      "cluster": "5",
+      "images": 56,
+      "mean_hall": 0.34,
+      "mean_instances": 9.09,
+      "typical_content": "person, skis, backpack, snowboard, surfboard",
+      "most_hallucinated": "chair, skis, truck, skateboard, snowboard"
+    }
+  ],
+  "CHAIR_i (hallucinated mentions / all mentions)": 0.294,
+  "CHAIR_s (captions with >=1 hallucination)": 0.67,
+  "caption_hall_share_by_position": {
+    "1st quarter": 0.126,
+    "2nd": 0.271,
+    "3rd": 0.454,
+    "last quarter": 0.52
+  }
+}

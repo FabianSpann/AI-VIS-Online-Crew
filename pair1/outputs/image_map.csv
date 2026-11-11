@@ -1,0 +1,501 @@
+image_source,x,y,cluster,n_hall,hallucinated,image_id,present,n_instances
+COCO_val2014_000000001171,9.354116,9.724951,7,2,traffic light,1171,"car, train, truck",3
+COCO_val2014_000000003845,11.5567,3.0942364,2,1,knife,3845,"broccoli, carrot, cup, dining table, fork, spoon",12
+COCO_val2014_000000006033,9.344252,8.16311,1,3,car,6033,"bus, person, sheep, suitcase",5
+COCO_val2014_000000007320,12.350399,7.9136195,4,0,–,7320,"person, remote, tv",8
+COCO_val2014_000000007795,13.597681,6.4297647,3,0,–,7795,"bed, clock, remote",4
+COCO_val2014_000000008749,12.621256,3.2240026,2,0,–,8749,"cup, dining table, pizza",4
+COCO_val2014_000000011241,11.8887005,3.809019,2,2,"apple, fork",11241,"bottle, bowl, cup, donut, knife, sandwich, spoon",28
+COCO_val2014_000000012333,5.6665382,7.8480053,5,0,–,12333,"chair, horse, person",18
+COCO_val2014_000000013348,11.125052,9.824839,7,0,–,13348,"airplane, person, truck",12
+COCO_val2014_000000015338,10.177745,9.6573,7,0,–,15338,"bus, car, truck",5
+COCO_val2014_000000015738,3.4891596,8.114725,6,1,bench,15738,"bottle, chair, person, sports ball, tennis racket",8
+COCO_val2014_000000016451,7.492376,7.994305,5,0,–,16451,"backpack, chair, handbag, person, surfboard, umbrella",12
+COCO_val2014_000000016775,10.543498,7.0423694,7,0,–,16775,"bird, dog, handbag, person, truck",20
+COCO_val2014_000000017379,13.854979,6.391,3,0,–,17379,"person, sink, tv",5
+COCO_val2014_000000017708,7.8311777,7.783535,5,0,–,17708,"bird, boat, person",20
+COCO_val2014_000000018150,10.955186,5.0187035,0,1,dining table,18150,"backpack, bottle, couch, person, pizza",7
+COCO_val2014_000000018918,13.1732855,5.3858647,3,0,–,18918,"bowl, oven, sink",4
+COCO_val2014_000000021327,12.822969,3.3828096,2,0,–,21327,"cup, dining table, pizza, tv",4
+COCO_val2014_000000021645,13.655133,5.872592,3,0,–,21645,"backpack, book, chair, clock, couch, dining table",10
+COCO_val2014_000000023084,4.357044,7.9374304,6,0,–,23084,"person, tennis racket",2
+COCO_val2014_000000023731,8.823367,5.2126307,4,0,–,23731,"cat, chair, clock, dining table",4
+COCO_val2014_000000025972,8.651422,9.643005,1,0,–,25972,"bicycle, bottle, car, couch, stop sign, truck",11
+COCO_val2014_000000031773,12.138851,7.951181,4,1,vase,31773,"keyboard, laptop, mouse, person, potted plant, tv",7
+COCO_val2014_000000031971,13.099978,6.253845,3,0,–,31971,"bed, book",8
+COCO_val2014_000000032610,12.384809,8.289672,4,0,–,32610,"backpack, laptop",7
+COCO_val2014_000000033270,12.816488,6.558301,3,0,–,33270,"book, couch, person, refrigerator, tv",7
+COCO_val2014_000000034773,9.008628,5.4482064,0,1,dining table,34773,"chair, couch, dog, potted plant",4
+COCO_val2014_000000037900,11.909564,8.197514,4,0,–,37900,"backpack, book, cell phone, knife",5
+COCO_val2014_000000038645,13.721475,5.953927,3,0,–,38645,"chair, cup, potted plant, umbrella",4
+COCO_val2014_000000039516,12.113294,3.3315108,2,2,dining table,39516,"cake, spoon",2
+COCO_val2014_000000040361,3.6432867,7.0369287,6,1,baseball glove,40361,"baseball bat, person",2
+COCO_val2014_000000041180,8.770928,7.951599,1,0,–,41180,"backpack, cow, person",17
+COCO_val2014_000000042190,5.707073,7.8825955,5,1,skis,42190,"person, snowboard, surfboard",3
+COCO_val2014_000000042685,12.075529,4.509629,0,0,–,42685,"bed, bowl, cell phone, cup, person, pizza",19
+COCO_val2014_000000044520,9.256335,9.600813,7,0,–,44520,"stop sign, traffic light",2
+COCO_val2014_000000044801,9.38262,8.721504,1,0,–,44801,"bus, car, motorcycle, person, traffic light, truck",29
+COCO_val2014_000000044993,9.896699,7.181245,2,0,–,44993,"apple, banana, orange",3
+COCO_val2014_000000045685,4.5853424,7.8687954,0,0,–,45685,"person, sports ball, tennis racket",4
+COCO_val2014_000000049473,12.750518,6.9166975,3,0,–,49473,"book, vase",2
+COCO_val2014_000000050627,3.3903801,6.764097,6,0,–,50627,"baseball bat, baseball glove, person",5
+COCO_val2014_000000052689,6.242573,8.214548,5,2,"chair, snowboard",52689,"bench, person, skis",17
+COCO_val2014_000000054025,10.083283,9.631969,7,0,–,54025,"backpack, bus, car, handbag, person, traffic light",18
+COCO_val2014_000000059383,13.789055,5.730974,3,0,–,59383,"bottle, cell phone, cup, microwave, oven, sink",9
+COCO_val2014_000000060213,13.635556,6.323061,3,0,–,60213,"backpack, bed, book",4
+COCO_val2014_000000061507,8.670417,8.422014,1,2,"chair, handbag",61507,"bicycle, kite, person, suitcase, umbrella",34
+COCO_val2014_000000063953,5.418039,7.5932374,5,1,chair,63953,"bicycle, person, skateboard",16
+COCO_val2014_000000065001,8.480259,9.09709,7,0,–,65001,"car, motorcycle, person",26
+COCO_val2014_000000068418,12.186381,8.0468025,4,0,–,68418,"keyboard, mouse, tv",3
+COCO_val2014_000000069189,9.390895,8.421458,1,0,–,69189,"bicycle, bird, car, handbag, person, umbrella",26
+COCO_val2014_000000069196,10.789101,9.906019,7,0,–,69196,"airplane, backpack, handbag, person",25
+COCO_val2014_000000069863,12.58834,7.018529,3,0,–,69863,"potted plant, vase",2
+COCO_val2014_000000070813,13.065952,6.204184,3,3,"book, cell phone, chair",70813,"bed, bottle, handbag",3
+COCO_val2014_000000071738,10.910976,7.9745584,0,1,handbag,71738,"chair, person, tie",14
+COCO_val2014_000000073182,9.176333,8.566495,1,0,–,73182,"car, handbag, motorcycle, person",7
+COCO_val2014_000000075591,8.967378,5.181868,4,1,tv,75591,"bed, book, cat",5
+COCO_val2014_000000076416,10.3413315,9.264228,7,0,–,76416,"bicycle, bus, cell phone, person",7
+COCO_val2014_000000079213,11.351538,6.0889874,4,0,–,79213,"couch, person, remote",4
+COCO_val2014_000000079446,13.85348,6.3099747,3,0,–,79446,"bottle, cup, sink, toilet",5
+COCO_val2014_000000080022,3.7419503,7.9425015,6,0,–,80022,"person, sports ball, tennis racket",3
+COCO_val2014_000000081336,9.606453,10.099956,7,1,bus,81336,"car, person, stop sign, traffic light, truck",12
+COCO_val2014_000000083275,3.3861907,6.7775373,6,0,–,83275,"baseball bat, baseball glove, person",5
+COCO_val2014_000000084410,12.868323,6.88768,3,1,toaster,84410,"cup, wine glass",3
+COCO_val2014_000000084447,8.521103,9.19155,5,0,–,84447,"motorcycle, person",2
+COCO_val2014_000000087435,9.972864,9.352719,7,1,bicycle,87435,"bench, bus, car, motorcycle, person",9
+COCO_val2014_000000088507,6.2205877,8.2799635,5,0,–,88507,"backpack, person, skis",3
+COCO_val2014_000000091954,9.498303,9.158791,7,0,–,91954,"train, truck",2
+COCO_val2014_000000092624,8.408898,7.6655574,1,0,–,92624,"giraffe, zebra",6
+COCO_val2014_000000093946,11.01215,4.7906365,0,0,–,93946,"bowl, chair, dining table, fork, person, pizza",11
+COCO_val2014_000000093948,8.887699,5.1043177,4,0,–,93948,"cat, keyboard, mouse, tv",4
+COCO_val2014_000000094501,12.253903,3.355217,2,0,–,94501,"bottle, cake, dining table, fork",5
+COCO_val2014_000000094944,6.3142796,8.286938,5,0,–,94944,"backpack, person, skis, snowboard",9
+COCO_val2014_000000097994,12.5126705,8.25797,4,0,–,97994,"book, bottle, clock, cup, keyboard, laptop, mouse, tv",20
+COCO_val2014_000000098493,9.221474,9.870709,7,2,"handbag, traffic light",98493,"car, chair, clock, person, truck",17
+COCO_val2014_000000100215,12.922788,6.1213064,3,0,–,100215,"bed, bottle, clock, teddy bear",4
+COCO_val2014_000000100238,5.4639792,8.00783,0,0,–,100238,"bottle, frisbee, handbag, person",10
+COCO_val2014_000000102439,12.315874,7.772217,4,2,car,102439,"person, remote, tv",3
+COCO_val2014_000000102906,10.076282,9.499515,1,1,stop sign,102906,"car, fire hydrant, traffic light",7
+COCO_val2014_000000105732,5.8890424,8.364023,5,0,–,105732,"backpack, person, skis",22
+COCO_val2014_000000108189,12.036334,2.7495508,2,0,–,108189,"cup, dining table, fork, knife, sandwich",5
+COCO_val2014_000000111817,12.195803,3.4858696,0,0,–,111817,"cake, dining table",3
+COCO_val2014_000000112664,10.4476385,8.806596,1,1,backpack,112664,"bench, handbag, person, suitcase, tie",6
+COCO_val2014_000000113701,12.84373,6.1541605,3,0,–,113701,"bed, book, chair, clock",5
+COCO_val2014_000000114710,9.224808,6.16191,0,1,handbag,114710,"backpack, person, sheep",3
+COCO_val2014_000000114941,10.186544,10.253853,7,0,–,114941,train,2
+COCO_val2014_000000115626,8.398034,9.204529,5,1,truck,115626,"motorcycle, parking meter, person",3
+COCO_val2014_000000115636,5.608654,7.776442,6,0,–,115636,"horse, person",14
+COCO_val2014_000000117527,12.040106,4.5583344,1,1,bottle,117527,"bowl, cup, dining table, person",22
+COCO_val2014_000000120648,13.502915,6.2011046,3,0,–,120648,"bed, book, dining table, handbag, suitcase",6
+COCO_val2014_000000120792,11.196718,6.7520027,0,0,–,120792,"book, bottle, chair, couch, cup, person, refrigerator, remote, tv",28
+COCO_val2014_000000121959,7.741354,7.9874825,5,0,–,121959,"chair, handbag, person, umbrella",19
+COCO_val2014_000000122962,10.988467,4.9380784,0,3,"bottle, cup",122962,"cell phone, dining table, person, pizza",31
+COCO_val2014_000000123017,12.705906,6.8858047,3,2,cup,123017,"bench, bowl, chair, vase",10
+COCO_val2014_000000123570,10.464602,8.489946,1,0,–,123570,"car, person, umbrella",4
+COCO_val2014_000000124629,5.081732,7.6385436,0,0,–,124629,"person, sports ball, tennis racket",5
+COCO_val2014_000000124930,10.558782,7.788712,0,3,"bottle, dining table",124930,"bowl, cup, knife, person, spoon, wine glass",26
+COCO_val2014_000000125524,9.975708,9.390779,1,2,car,125524,"bus, fire hydrant, person",3
+COCO_val2014_000000125572,10.386002,9.138139,1,0,–,125572,"backpack, bicycle, bus, clock, handbag, motorcycle, person, traffic light, truck",29
+COCO_val2014_000000131018,11.087573,4.660251,0,0,–,131018,"bottle, bowl, cup, person, scissors, sink, spoon",13
+COCO_val2014_000000131115,3.4906642,6.896201,6,0,–,131115,"baseball bat, baseball glove, person",16
+COCO_val2014_000000134075,11.817364,3.2099652,2,1,bowl,134075,"bottle, cell phone, cup, dining table, person, spoon",11
+COCO_val2014_000000140583,8.3073435,7.765523,1,2,car,140583,"cow, person, sheep, truck",22
+COCO_val2014_000000140983,10.572153,4.99884,0,2,chair,140983,"couch, person, toothbrush",4
+COCO_val2014_000000141278,12.694558,8.066902,4,1,bottle,141278,"cell phone, chair, keyboard, laptop, mouse, tv",6
+COCO_val2014_000000142056,3.837831,7.763786,6,1,baseball bat,142056,"person, tennis racket",2
+COCO_val2014_000000142774,9.669074,8.803813,7,1,bicycle,142774,"bus, motorcycle, person",5
+COCO_val2014_000000147165,11.934012,4.187948,2,0,–,147165,"oven, person, sink, spoon",4
+COCO_val2014_000000147289,8.93012,9.627108,1,2,"traffic light, truck",147289,"car, fire hydrant, stop sign",7
+COCO_val2014_000000148766,12.873331,6.8733397,3,0,–,148766,"toilet, vase",11
+COCO_val2014_000000149592,8.8624115,7.580741,1,0,–,149592,"bench, boat, person",4
+COCO_val2014_000000153300,11.989491,3.650847,2,0,–,153300,"bottle, bowl, cake, cup, dining table, fork, knife, person, spoon",14
+COCO_val2014_000000153865,8.108337,8.019047,5,1,chair,153865,"car, kite, person",19
+COCO_val2014_000000154846,12.625605,3.4093075,2,0,–,154846,"dining table, person, pizza",3
+COCO_val2014_000000155131,3.5271068,8.12825,6,0,–,155131,"bench, person, sports ball, tennis racket, tie",18
+COCO_val2014_000000156282,6.6614904,8.041735,5,0,–,156282,"kite, person, umbrella",17
+COCO_val2014_000000156704,7.5435667,7.9208965,5,0,–,156704,"person, surfboard, umbrella",17
+COCO_val2014_000000157084,13.930833,6.370912,3,1,bottle,157084,"bench, sink, toilet",3
+COCO_val2014_000000159969,6.24697,8.2933855,5,0,–,159969,"backpack, person, skis",3
+COCO_val2014_000000163575,9.219632,5.380323,0,0,–,163575,"bed, dog, person",4
+COCO_val2014_000000163814,4.978252,7.739989,5,0,–,163814,person,3
+COCO_val2014_000000167110,5.6354055,7.606956,5,0,–,167110,"car, person, skateboard",7
+COCO_val2014_000000167724,11.676443,4.2167177,2,1,bowl,167724,"bottle, person, spoon",3
+COCO_val2014_000000170077,10.50504,5.473991,0,0,–,170077,"chair, dining table, handbag, person, umbrella, wine glass",8
+COCO_val2014_000000170365,14.022514,6.329587,3,1,vase,170365,"potted plant, sink, toilet",3
+COCO_val2014_000000170517,8.774915,7.071894,1,0,–,170517,"car, dog, person, umbrella",5
+COCO_val2014_000000172342,10.879225,6.7236977,0,0,–,172342,"book, bottle, bowl, clock, cup, fork, person, spoon",45
+COCO_val2014_000000172648,9.915408,9.624352,7,0,–,172648,"car, person, truck",4
+COCO_val2014_000000175437,12.12374,4.11554,2,0,–,175437,"dining table, donut, person",29
+COCO_val2014_000000175506,6.361303,8.162743,5,0,–,175506,"frisbee, person",3
+COCO_val2014_000000178078,8.451578,9.29824,7,0,–,178078,"car, motorcycle",4
+COCO_val2014_000000183757,8.634052,7.1419544,1,0,–,183757,"cat, dog",3
+COCO_val2014_000000183965,12.076471,3.3955607,2,0,–,183965,"bowl, cup, dining table, hot dog, sandwich",5
+COCO_val2014_000000184338,9.366611,9.343432,7,2,car,184338,truck,1
+COCO_val2014_000000186709,10.093109,7.0647335,2,2,dining table,186709,"apple, car, orange, truck",20
+COCO_val2014_000000188958,5.9764504,8.279849,5,0,–,188958,"person, snowboard",15
+COCO_val2014_000000189694,11.72716,5.259821,0,0,–,189694,"bottle, microwave, person, sink",4
+COCO_val2014_000000190185,12.117091,2.8219676,2,2,dining table,190185,"bowl, sandwich",2
+COCO_val2014_000000190788,12.704488,3.3361568,2,0,–,190788,"cup, knife, person, pizza",5
+COCO_val2014_000000191964,8.811875,5.056101,4,0,–,191964,"cat, keyboard",2
+COCO_val2014_000000192660,10.017871,7.1378965,2,0,–,192660,"orange, person, refrigerator",4
+COCO_val2014_000000196053,3.7778492,7.913151,6,0,–,196053,"person, tennis racket",2
+COCO_val2014_000000196462,12.10776,3.1645112,2,4,"dining table, person",196462,"bowl, cup, fork",4
+COCO_val2014_000000197219,10.819965,5.515914,0,3,"bottle, cup",197219,"chair, dining table, handbag, person, pizza",16
+COCO_val2014_000000198312,13.586301,5.7203703,3,0,–,198312,"bowl, chair, couch, dining table, potted plant, vase",18
+COCO_val2014_000000198397,3.4952893,8.108244,6,0,–,198397,"chair, person, sports ball, tennis racket",22
+COCO_val2014_000000199122,3.3627534,6.8026867,6,0,–,199122,"baseball bat, baseball glove, chair, person, sports ball",22
+COCO_val2014_000000199764,10.54124,7.053328,7,2,car,199764,"backpack, bench, chair, handbag, person, truck",22
+COCO_val2014_000000199940,9.036209,4.9564896,2,0,–,199940,"backpack, bottle, bowl, cat, oven, refrigerator",10
+COCO_val2014_000000199959,10.189618,10.266376,7,0,–,199959,"backpack, handbag, person, train",13
+COCO_val2014_000000200583,11.836529,7.9290943,1,1,backpack,200583,"bottle, suitcase",4
+COCO_val2014_000000200739,9.540713,10.232859,7,0,–,200739,"car, horse, person, truck",7
+COCO_val2014_000000201148,10.146848,10.412329,7,0,–,201148,"person, traffic light, train",4
+COCO_val2014_000000203479,10.909072,5.7447014,0,1,dog,203479,"couch, cup, person, teddy bear",6
+COCO_val2014_000000204100,9.621887,7.6581373,1,0,–,204100,"banana, bowl, person",18
+COCO_val2014_000000204360,9.646827,9.510639,7,1,handbag,204360,"backpack, bicycle, bus, car, person, traffic light",13
+COCO_val2014_000000205206,9.365041,9.9466305,7,0,–,205206,"traffic light, train",6
+COCO_val2014_000000205729,6.5007553,8.283183,5,0,–,205729,"backpack, person, skis",16
+COCO_val2014_000000207205,11.616357,3.0843456,2,3,"bowl, dining table",207205,"broccoli, carrot, chair",4
+COCO_val2014_000000208028,11.926279,7.867883,4,0,–,208028,"keyboard, person",2
+COCO_val2014_000000209290,10.698142,4.967188,0,0,–,209290,"chair, cup, dining table, fork, person",8
+COCO_val2014_000000209755,11.390657,3.3994513,2,0,–,209755,"bowl, carrot, oven, person, spoon",18
+COCO_val2014_000000210789,10.382795,5.4567423,0,2,car,210789,"person, truck, umbrella",5
+COCO_val2014_000000211674,10.07317,9.712568,7,0,–,211674,"bus, car, person, potted plant",17
+COCO_val2014_000000212241,10.107395,10.402402,7,0,–,212241,"car, person, train, truck",11
+COCO_val2014_000000214244,5.810897,8.298819,5,0,–,214244,"person, skis, snowboard",3
+COCO_val2014_000000214421,11.616888,7.620811,4,0,–,214421,"bottle, cup, laptop, person, potted plant, tv",8
+COCO_val2014_000000217397,11.487831,5.144889,0,0,–,217397,"bottle, cell phone, dining table, fork, person, wine glass",9
+COCO_val2014_000000218224,11.098149,9.799114,7,0,–,218224,"airplane, truck",3
+COCO_val2014_000000219622,4.5627556,7.6798334,6,1,truck,219622,"car, frisbee, person",14
+COCO_val2014_000000222118,11.013491,8.071747,1,0,–,222118,"cell phone, handbag, person",3
+COCO_val2014_000000224155,11.360834,6.019872,0,1,sink,224155,"cell phone, person, toilet",3
+COCO_val2014_000000226097,13.782945,5.7593675,3,0,–,226097,"bottle, bowl, cup, oven, refrigerator, sink, spoon",13
+COCO_val2014_000000227204,11.497296,4.610143,0,1,oven,227204,"banana, bottle, bowl, cell phone, cup, dining table, knife, person, spoon",19
+COCO_val2014_000000227227,8.818055,6.856572,1,1,truck,227227,"car, dog, person",5
+COCO_val2014_000000230175,10.645415,5.232422,0,1,chair,230175,"cup, person, tie",7
+COCO_val2014_000000231589,10.856779,5.283459,0,0,–,231589,"bed, chair, person",3
+COCO_val2014_000000233426,12.663004,6.8973103,3,0,–,233426,"potted plant, vase",4
+COCO_val2014_000000233521,11.332764,5.578587,0,4,"chair, dining table",233521,"book, bottle, couch, person, remote, vase",8
+COCO_val2014_000000235203,8.835699,5.052326,4,0,–,235203,"cat, chair, couch, keyboard, person, remote",7
+COCO_val2014_000000235541,9.867619,7.3522844,0,0,–,235541,"person, tie",3
+COCO_val2014_000000236023,11.380217,5.615461,0,0,–,236023,"bottle, clock, cup, knife, oven, person, refrigerator",31
+COCO_val2014_000000236370,11.068818,6.630022,0,0,–,236370,"book, chair, person, tie",41
+COCO_val2014_000000236865,10.427684,5.422608,0,0,–,236865,"car, frisbee, person",3
+COCO_val2014_000000237767,12.16309,6.8367,4,0,–,237767,"apple, book, cell phone, couch, dining table, person, remote, tv",14
+COCO_val2014_000000238029,12.728779,3.5021305,2,4,"bowl, cup, orange",238029,"dining table, fork, knife, pizza, wine glass",5
+COCO_val2014_000000238691,10.861667,9.406807,1,0,–,238691,"backpack, bottle, handbag, person, suitcase",21
+COCO_val2014_000000239130,9.01223,9.132778,1,1,truck,239130,"bicycle, car, cell phone, person",4
+COCO_val2014_000000239347,12.921267,5.8275466,3,0,–,239347,"bed, person, tie",4
+COCO_val2014_000000239444,11.863264,4.3927164,2,0,–,239444,"chair, dining table, microwave, oven, person, pizza",9
+COCO_val2014_000000239773,3.3379157,6.740006,6,0,–,239773,"baseball bat, baseball glove, person, sports ball",6
+COCO_val2014_000000240434,13.224995,6.119557,3,0,–,240434,"book, cell phone, chair, clock, couch, handbag, refrigerator, remote, tv",11
+COCO_val2014_000000243158,13.695119,5.844526,3,1,potted plant,243158,"bottle, couch, vase",4
+COCO_val2014_000000244455,8.700782,9.049559,1,1,traffic light,244455,"car, motorcycle, person, truck",17
+COCO_val2014_000000245448,8.536929,9.058992,7,2,car,245448,"motorcycle, person, truck",11
+COCO_val2014_000000245642,8.595711,7.6285257,1,1,clock,245642,"bicycle, person, sheep",14
+COCO_val2014_000000246145,12.827521,6.6422725,3,0,–,246145,"chair, clock",2
+COCO_val2014_000000246199,9.785076,7.3742223,2,1,bowl,246199,"banana, orange",5
+COCO_val2014_000000246928,13.576826,6.5960293,3,0,–,246928,"bed, chair",2
+COCO_val2014_000000246999,12.939424,6.3697934,3,1,book,246999,"chair, clock, couch, potted plant, remote, tv, vase",15
+COCO_val2014_000000249715,11.348362,7.120734,0,0,–,249715,"chair, person, remote",22
+COCO_val2014_000000249720,9.140067,9.4247875,1,1,handbag,249720,"backpack, bench, bicycle, car, person, stop sign, traffic light",7
+COCO_val2014_000000252135,11.19458,5.7178106,0,0,–,252135,"chair, couch, person, remote",6
+COCO_val2014_000000252911,8.7596035,9.068934,1,0,–,252911,"car, motorcycle, person, stop sign",6
+COCO_val2014_000000256906,10.01786,9.903059,7,0,–,256906,"bus, car, handbag, person, tie, traffic light, truck",22
+COCO_val2014_000000257327,13.850619,6.321275,3,0,–,257327,"bottle, sink, toilet",5
+COCO_val2014_000000259755,3.75811,7.1367483,6,2,car,259755,"baseball glove, person",7
+COCO_val2014_000000262736,8.75602,6.3405004,0,0,–,262736,"car, dog, frisbee, truck",7
+COCO_val2014_000000263594,8.759401,9.558541,7,0,–,263594,"bird, car, truck",11
+COCO_val2014_000000264155,12.719154,3.5428586,2,2,cup,264155,"bottle, dining table, fork, knife, person, pizza",18
+COCO_val2014_000000265472,11.887389,2.959862,2,0,–,265472,"banana, bowl",6
+COCO_val2014_000000265719,11.726463,4.7138925,0,2,dining table,265719,"cake, donut, fork, person, spoon",6
+COCO_val2014_000000267684,6.4312077,8.254288,5,0,–,267684,"backpack, person, skis",5
+COCO_val2014_000000270609,10.803919,4.805642,0,0,–,270609,"chair, cup, dining table, orange, person",9
+COCO_val2014_000000273450,9.406637,9.369801,1,1,truck,273450,"car, parking meter, person",3
+COCO_val2014_000000275863,4.9983554,7.7118406,5,0,–,275863,"baseball bat, bench, chair, person",6
+COCO_val2014_000000276693,5.9733887,8.320992,5,0,–,276693,"dog, person, skis",3
+COCO_val2014_000000277289,13.280167,5.951337,3,0,–,277289,"bowl, couch, potted plant, tv, vase",8
+COCO_val2014_000000278226,11.054809,5.33144,4,2,chair,278226,"couch, cup, laptop, person",6
+COCO_val2014_000000278771,3.6408472,7.047081,6,1,chair,278771,"baseball bat, bench, bottle, person",6
+COCO_val2014_000000279499,9.908041,9.357718,7,0,–,279499,"bus, person, umbrella",6
+COCO_val2014_000000280734,12.644405,3.3232386,2,0,–,280734,"person, pizza",2
+COCO_val2014_000000280810,11.480546,3.211429,2,2,person,280810,"broccoli, carrot, fork, laptop",10
+COCO_val2014_000000281028,11.115347,9.44672,7,2,truck,281028,"chair, person, train",7
+COCO_val2014_000000281766,8.905106,8.565705,1,0,–,281766,"bicycle, handbag, person",19
+COCO_val2014_000000283168,12.1658945,2.84779,2,0,–,283168,"bowl, fork, sandwich",3
+COCO_val2014_000000283412,9.074045,5.6552606,0,2,book,283412,"bed, cup, dog",3
+COCO_val2014_000000286342,12.267733,8.1241,4,0,–,286342,"keyboard, mouse",2
+COCO_val2014_000000287035,12.442956,8.242673,4,1,bottle,287035,"cell phone, chair, keyboard, laptop, mouse, tv",6
+COCO_val2014_000000287305,9.702715,10.171221,7,0,–,287305,"bus, car, person",10
+COCO_val2014_000000288042,9.058608,8.191266,1,2,car,288042,"person, truck, umbrella",3
+COCO_val2014_000000288576,4.8474183,7.9146605,5,1,skateboard,288576,"bicycle, frisbee, person",3
+COCO_val2014_000000288639,8.920004,5.081242,0,0,–,288639,"bottle, cat, sink, toothbrush",7
+COCO_val2014_000000291936,10.387074,8.880874,1,0,–,291936,"bicycle, person, umbrella",7
+COCO_val2014_000000293564,7.5853934,7.909368,5,1,kite,293564,"person, surfboard, umbrella",18
+COCO_val2014_000000294475,12.659129,3.5267813,2,0,–,294475,"bottle, chair, cup, dining table, pizza, potted plant",9
+COCO_val2014_000000295377,6.0634074,8.4104395,5,0,–,295377,"backpack, person, skis",3
+COCO_val2014_000000297078,5.8843246,8.190413,5,0,–,297078,"backpack, person, skis",3
+COCO_val2014_000000298633,3.879301,7.8080883,6,0,–,298633,"person, sports ball, tennis racket",3
+COCO_val2014_000000299074,10.005311,9.752331,7,0,–,299074,"bus, cell phone, person",3
+COCO_val2014_000000299986,11.269316,6.0234365,0,2,chair,299986,"bench, cell phone, person",3
+COCO_val2014_000000300368,11.869632,5.688232,0,2,"teddy bear, tie",300368,"cake, dining table, knife, person",7
+COCO_val2014_000000300876,10.884339,4.868378,0,1,backpack,300876,"bottle, bowl, cake, chair, cup, dining table, handbag, knife, person, spoon",16
+COCO_val2014_000000301575,8.845486,5.126906,4,0,–,301575,"book, cat, chair, couch, person, potted plant, tv",8
+COCO_val2014_000000302405,6.1642303,8.275891,5,2,"skateboard, skis",302405,"backpack, person, snowboard",9
+COCO_val2014_000000303099,8.841045,5.1029005,4,0,–,303099,"bottle, cat, toilet",4
+COCO_val2014_000000303534,13.091855,6.0011187,3,1,handbag,303534,"backpack, bed, chair, cup, tv",6
+COCO_val2014_000000303652,12.193356,2.9616091,2,0,–,303652,"cake, cup, dining table, knife, spoon",5
+COCO_val2014_000000303971,11.44566,5.774302,4,3,"chair, dining table",303971,"person, remote, tv",3
+COCO_val2014_000000304387,7.61071,7.840744,5,0,–,304387,"kite, person, surfboard",3
+COCO_val2014_000000304819,8.833889,5.123531,4,3,person,304819,"cat, tv",2
+COCO_val2014_000000307166,12.06023,4.010673,2,2,"cup, sink",307166,"bottle, pizza",10
+COCO_val2014_000000307262,12.557226,4.0884423,2,0,–,307262,"bottle, bowl, fork, pizza",6
+COCO_val2014_000000308907,9.868402,9.436413,7,0,–,308907,"bicycle, person, potted plant, traffic light",6
+COCO_val2014_000000309371,10.248938,7.63687,1,3,"chair, dining table",309371,"backpack, bench, cup, person",8
+COCO_val2014_000000310196,6.2280893,8.238425,5,0,–,310196,"person, snowboard",2
+COCO_val2014_000000311327,5.770177,8.234549,5,0,–,311327,"boat, handbag, person",8
+COCO_val2014_000000311759,9.817376,5.460743,0,0,–,311759,teddy bear,1
+COCO_val2014_000000312406,11.44973,3.7729716,2,2,"bottle, spoon",312406,"banana, bowl",2
+COCO_val2014_000000313034,11.344007,5.7488565,0,3,"car, horse",313034,"bottle, cake, clock, cup, fork, person, vase",11
+COCO_val2014_000000313162,12.678391,3.2475479,2,0,–,313162,"cup, dining table, pizza",3
+COCO_val2014_000000314992,11.215163,8.014364,0,1,backpack,314992,"cell phone, handbag, person",3
+COCO_val2014_000000316237,10.832423,8.246258,1,0,–,316237,"cell phone, handbag, person",3
+COCO_val2014_000000316700,12.028907,2.8536623,2,0,–,316700,"bowl, broccoli, cup, dining table, fork, knife, orange, sandwich",10
+COCO_val2014_000000318204,7.970265,7.7859473,5,1,dog,318204,"horse, person, sheep, umbrella",6
+COCO_val2014_000000318209,11.718213,2.9412267,2,1,cup,318209,"cat, fork, refrigerator, sandwich",4
+COCO_val2014_000000318550,10.012361,10.459044,7,0,–,318550,"car, traffic light, train, truck",20
+COCO_val2014_000000323752,3.7437618,8.045247,6,0,–,323752,"person, tennis racket",2
+COCO_val2014_000000325347,3.5147393,8.096866,6,1,cup,325347,"backpack, chair, person, tennis racket",7
+COCO_val2014_000000327038,12.119913,4.066032,2,0,–,327038,"bottle, bowl, fork, knife, person, spoon",15
+COCO_val2014_000000327532,3.453436,8.070815,6,1,cup,327532,"chair, person, sports ball, tennis racket",31
+COCO_val2014_000000327771,13.216221,6.345741,3,0,–,327771,"bed, vase",2
+COCO_val2014_000000328301,8.820625,9.478376,7,0,–,328301,"boat, car, fire hydrant",4
+COCO_val2014_000000329717,10.9941,5.211157,0,0,–,329717,"person, suitcase",2
+COCO_val2014_000000331366,9.050852,8.9361,1,0,–,331366,"bicycle, car, person, truck, umbrella",10
+COCO_val2014_000000332025,5.8846345,8.359514,5,0,–,332025,"backpack, cell phone, dog, person, skis, snowboard",10
+COCO_val2014_000000332625,11.017138,9.550522,1,0,–,332625,"chair, person, tv",12
+COCO_val2014_000000332908,12.567764,5.601009,1,0,–,332908,"bottle, bowl, oven",7
+COCO_val2014_000000333237,13.00591,6.332013,3,0,–,333237,"bed, chair",3
+COCO_val2014_000000333756,3.6606753,8.126947,6,0,–,333756,"person, sports ball",2
+COCO_val2014_000000336872,12.255046,3.0481672,2,0,–,336872,"bowl, sandwich, spoon",5
+COCO_val2014_000000337502,12.45023,3.4108727,2,0,–,337502,"broccoli, pizza",9
+COCO_val2014_000000338291,5.925143,8.115391,5,1,chair,338291,"backpack, bench, person, snowboard",5
+COCO_val2014_000000343401,8.849749,7.348667,1,0,–,343401,"car, dog, horse, person",5
+COCO_val2014_000000343967,13.034725,6.363236,3,2,dining table,343967,"chair, clock, couch, potted plant, vase",9
+COCO_val2014_000000346707,9.758207,7.4164176,1,0,–,346707,banana,4
+COCO_val2014_000000348469,3.6779268,7.0047874,6,0,–,348469,"baseball bat, bird, person",4
+COCO_val2014_000000348524,5.9928856,8.303717,5,0,–,348524,"person, skis, snowboard",9
+COCO_val2014_000000349936,13.196079,6.062796,3,0,–,349936,"book, cake, chair, couch, cup, dining table, tv",11
+COCO_val2014_000000350898,13.817326,5.8945403,3,0,–,350898,"bottle, cup, oven, refrigerator, spoon",5
+COCO_val2014_000000353096,12.25746,8.132024,4,0,–,353096,"keyboard, mouse, tv",3
+COCO_val2014_000000353180,9.504596,10.136569,7,1,traffic light,353180,"backpack, bus, person",12
+COCO_val2014_000000354088,9.625644,8.401449,1,2,cup,354088,"apple, bus, car, orange, person, umbrella",29
+COCO_val2014_000000354229,10.002808,9.4601,7,1,traffic light,354229,"bus, car, person",13
+COCO_val2014_000000354398,9.307774,10.202947,7,0,–,354398,"car, dog, person, tie, truck",5
+COCO_val2014_000000354976,12.469825,8.209327,4,1,keyboard,354976,"cell phone, chair, clock, laptop, mouse, person, tv",11
+COCO_val2014_000000355256,12.062294,3.9897635,2,1,wine glass,355256,"bottle, chair, donut, microwave, person, refrigerator",6
+COCO_val2014_000000355342,11.153185,7.3738194,1,0,–,355342,"orange, person, umbrella",17
+COCO_val2014_000000355776,10.656002,5.204389,0,2,bottle,355776,"cup, person, sink, toothbrush",4
+COCO_val2014_000000356424,11.524344,4.676272,0,0,–,356424,"bottle, car, chair, cup, dining table, person",10
+COCO_val2014_000000358255,12.498283,6.2051973,4,1,chair,358255,"bed, book, teddy bear",18
+COCO_val2014_000000360600,12.591856,3.3161972,2,0,–,360600,"cup, fork, knife, person, pizza",6
+COCO_val2014_000000361430,11.45167,3.2650812,2,0,–,361430,"bowl, broccoli, carrot, spoon",21
+COCO_val2014_000000363908,3.5635846,6.9558134,6,0,–,363908,"baseball bat, baseball glove, person, sports ball",9
+COCO_val2014_000000365317,3.5157964,8.15886,6,0,–,365317,"person, sports ball, tennis racket",3
+COCO_val2014_000000365822,13.012341,5.5540814,3,1,tie,365822,"bottle, chair, oven, potted plant, vase",6
+COCO_val2014_000000366141,13.753318,5.8733687,3,2,cup,366141,"cat, chair, couch, tv",4
+COCO_val2014_000000367528,12.72067,6.8520465,3,0,–,367528,"book, cup, dining table, potted plant, remote, tv, vase",22
+COCO_val2014_000000368541,11.077088,9.910619,7,0,–,368541,"airplane, backpack, bottle, handbag, person, suitcase, truck",32
+COCO_val2014_000000369541,8.818217,6.225451,0,0,–,369541,"dog, frisbee, person",7
+COCO_val2014_000000370900,11.945652,5.906028,0,0,–,370900,teddy bear,4
+COCO_val2014_000000372009,12.376713,6.1553884,3,1,bear,372009,"bed, bird, teddy bear",4
+COCO_val2014_000000372817,10.357031,8.5705,1,1,truck,372817,"car, handbag, person, umbrella",15
+COCO_val2014_000000372819,8.716926,6.565823,5,2,chair,372819,"bench, dining table, dog, person",8
+COCO_val2014_000000374061,8.944468,5.207675,0,0,–,374061,"bed, cat, teddy bear",3
+COCO_val2014_000000375909,13.118649,6.1042027,3,0,–,375909,"bed, couch, refrigerator",3
+COCO_val2014_000000376959,10.683181,5.1637516,0,0,–,376959,"cell phone, chair, dining table, person",4
+COCO_val2014_000000377352,8.607656,8.948229,1,2,"bus, truck",377352,"car, motorcycle, person",8
+COCO_val2014_000000377401,9.714987,9.953373,7,0,–,377401,"car, clock",3
+COCO_val2014_000000377879,10.559103,9.97804,7,0,–,377879,"train, truck",2
+COCO_val2014_000000377951,12.8253765,3.4774141,2,0,–,377951,"cup, dining table, person, pizza",4
+COCO_val2014_000000378751,8.872415,5.3174443,4,0,–,378751,"cat, couch, remote",3
+COCO_val2014_000000378873,9.933295,7.277815,2,0,–,378873,"bowl, carrot, dining table, handbag, orange, person, truck",23
+COCO_val2014_000000379162,3.4560306,8.079984,6,1,cup,379162,"bottle, chair, handbag, person, tennis racket",10
+COCO_val2014_000000379404,12.057837,2.8674123,2,0,–,379404,"banana, dining table, sandwich",4
+COCO_val2014_000000381195,9.93418,6.84332,2,0,–,381195,"bowl, broccoli, dining table",4
+COCO_val2014_000000381895,9.952319,5.499293,0,0,–,381895,"person, teddy bear",2
+COCO_val2014_000000382617,12.374944,7.646783,4,0,–,382617,"book, cup, mouse",3
+COCO_val2014_000000382670,8.661653,7.7756066,1,1,motorcycle,382670,"bicycle, boat, cow, person, potted plant",11
+COCO_val2014_000000383185,12.170852,6.7483525,3,1,knife,383185,"banana, bottle, bowl, cup, spoon",12
+COCO_val2014_000000384040,12.067785,2.8943713,2,1,bowl,384040,"bottle, cup, dining table, fork, knife, sandwich, spoon",16
+COCO_val2014_000000384970,9.635127,9.1240635,1,0,–,384970,"car, motorcycle, person, truck",4
+COCO_val2014_000000387098,12.549568,8.279511,4,0,–,387098,"book, bottle, cup, keyboard, laptop, mouse, remote, spoon, tv",24
+COCO_val2014_000000388237,5.458599,7.583596,5,0,–,388237,"bottle, chair, person, skateboard",11
+COCO_val2014_000000388983,12.16366,2.7392554,2,0,–,388983,"cup, dining table, hot dog, sandwich",4
+COCO_val2014_000000390157,12.109685,4.0671206,2,0,–,390157,"bottle, dining table, person, wine glass",7
+COCO_val2014_000000390184,13.785025,5.7921047,3,1,car,390184,"chair, dining table, microwave, oven, spoon",10
+COCO_val2014_000000391735,10.035266,9.1649885,1,0,–,391735,"person, toothbrush, traffic light",3
+COCO_val2014_000000392364,9.55397,9.931711,7,1,truck,392364,"car, horse, person, traffic light",10
+COCO_val2014_000000394535,9.724447,9.054043,1,0,–,394535,"backpack, bus, car, handbag, person, surfboard",14
+COCO_val2014_000000396068,11.025615,8.142299,0,0,–,396068,"person, remote, tv",5
+COCO_val2014_000000396338,9.506333,8.477888,1,1,tie,396338,"backpack, car, handbag, motorcycle, person, truck",12
+COCO_val2014_000000397665,9.378606,8.248959,1,1,backpack,397665,"bicycle, bus, car, handbag, motorcycle, person",28
+COCO_val2014_000000397705,9.131974,5.3167524,0,0,–,397705,"bed, book, cat, cup, person",8
+COCO_val2014_000000399702,12.196353,2.8094375,2,0,–,399702,"bowl, cup, dining table, sandwich",8
+COCO_val2014_000000401398,10.189334,5.464133,0,0,–,401398,"person, potted plant, teddy bear, vase",4
+COCO_val2014_000000405205,10.028837,9.566932,7,0,–,405205,"bus, truck",3
+COCO_val2014_000000405740,11.642237,7.7695985,4,0,–,405740,"laptop, person, wine glass",3
+COCO_val2014_000000405762,4.173824,7.516138,6,1,bus,405762,"car, person, sports ball, truck",5
+COCO_val2014_000000406403,6.4909716,8.260449,5,1,chair,406403,"person, skis, snowboard",8
+COCO_val2014_000000407386,8.835617,5.0676985,4,0,–,407386,"cat, keyboard, laptop, tv",4
+COCO_val2014_000000408757,7.428262,7.913837,5,0,–,408757,"kite, person",4
+COCO_val2014_000000410597,11.886674,5.706796,0,0,–,410597,"cake, cup, person, tie, wine glass",8
+COCO_val2014_000000414516,8.734448,7.928096,1,0,–,414516,"bench, chair, dining table, elephant, person",25
+COCO_val2014_000000415727,3.8932102,7.166418,6,1,chair,415727,"backpack, baseball bat, bench, person",11
+COCO_val2014_000000418471,12.712184,3.7406814,2,0,–,418471,"chair, cup, person, pizza",14
+COCO_val2014_000000418680,6.0828667,8.366113,5,0,–,418680,"person, skis, snowboard",4
+COCO_val2014_000000419453,4.002223,7.4308248,6,1,chair,419453,"person, sports ball, umbrella",9
+COCO_val2014_000000421455,9.677688,5.813725,0,1,traffic light,421455,"car, cell phone, dog, person, truck",5
+COCO_val2014_000000424585,9.108511,10.021244,7,0,–,424585,"car, person, truck",14
+COCO_val2014_000000424642,4.7316756,7.8682485,5,0,–,424642,"bottle, frisbee, person",7
+COCO_val2014_000000424792,8.99381,5.080819,0,0,–,424792,"cat, vase",2
+COCO_val2014_000000427113,8.999357,7.45836,1,0,–,427113,"bench, clock, person",5
+COCO_val2014_000000429033,11.5914545,7.641929,4,0,–,429033,"chair, laptop, person",18
+COCO_val2014_000000429109,9.850195,9.832398,7,1,motorcycle,429109,"bicycle, bus, car, person, train",10
+COCO_val2014_000000429580,8.774396,6.4237275,0,0,–,429580,"dog, frisbee, person",4
+COCO_val2014_000000429706,10.900853,9.589712,7,1,skis,429706,"backpack, handbag, person, suitcase, tv",39
+COCO_val2014_000000429913,3.302163,6.759103,6,0,–,429913,"baseball bat, baseball glove, person, sports ball",13
+COCO_val2014_000000430052,12.5533905,7.0683537,0,0,–,430052,"dining table, vase",2
+COCO_val2014_000000431615,8.853301,7.7107067,1,0,–,431615,"boat, dog, person",6
+COCO_val2014_000000433574,11.358735,6.031044,4,1,book,433574,"cell phone, chair, couch, person",6
+COCO_val2014_000000434179,12.085237,3.465578,2,0,–,434179,"chair, cup, dining table, spoon",6
+COCO_val2014_000000436127,9.000958,9.141803,1,0,–,436127,"bus, car, clock, horse, person",10
+COCO_val2014_000000437347,5.14453,7.583456,5,1,baseball bat,437347,"baseball glove, person, sports ball",5
+COCO_val2014_000000441156,8.397322,7.713024,5,0,–,441156,"backpack, elephant, handbag, person",6
+COCO_val2014_000000442809,12.139047,3.5472734,2,1,bowl,442809,"bottle, cake",15
+COCO_val2014_000000443240,8.745291,9.715742,1,2,person,443240,"chair, couch, tv",3
+COCO_val2014_000000445200,11.7689085,3.686945,2,1,car,445200,"bowl, broccoli, carrot, cup, dining table, knife",12
+COCO_val2014_000000446651,9.021194,8.721927,1,1,truck,446651,"car, motorcycle, person",5
+COCO_val2014_000000447787,11.311929,4.62304,0,0,–,447787,"bottle, cake, carrot, microwave, person",15
+COCO_val2014_000000449432,10.815569,9.835284,7,0,–,449432,"backpack, boat, bus, handbag, person, suitcase",17
+COCO_val2014_000000452297,12.495242,3.0147264,2,2,dining table,452297,"banana, cup, spoon",9
+COCO_val2014_000000454607,11.859332,8.015915,4,0,–,454607,"book, cell phone, person",11
+COCO_val2014_000000454642,9.467621,8.739605,1,0,–,454642,"car, motorcycle, person, truck",14
+COCO_val2014_000000455157,10.440744,8.417246,1,1,chair,455157,"bench, dining table, laptop, person, umbrella",8
+COCO_val2014_000000456178,9.692061,9.839305,7,1,bus,456178,"car, clock, person, traffic light, truck",18
+COCO_val2014_000000456552,5.583737,7.570571,5,0,–,456552,"person, skateboard",2
+COCO_val2014_000000458325,9.938378,8.735707,1,1,truck,458325,"car, person, skateboard, traffic light",35
+COCO_val2014_000000458338,9.537879,8.576059,1,2,"bus, truck",458338,"car, clock, person, traffic light",8
+COCO_val2014_000000459680,11.274654,7.4229116,0,0,–,459680,"person, umbrella",2
+COCO_val2014_000000460931,11.97349,3.579202,2,0,–,460931,"cake, donut",15
+COCO_val2014_000000461331,13.388717,6.984694,4,0,–,461331,"microwave, oven, tv",4
+COCO_val2014_000000462805,6.021613,8.055374,5,0,–,462805,"person, skis",2
+COCO_val2014_000000463522,9.056547,9.858558,7,0,–,463522,"backpack, bicycle, dog, horse, person",22
+COCO_val2014_000000463542,6.0913544,8.350412,5,1,backpack,463542,"person, skis, snowboard",26
+COCO_val2014_000000463640,11.877852,5.6152453,0,0,–,463640,"cake, dining table, knife, person, tie, wine glass",7
+COCO_val2014_000000465275,11.208619,5.894021,0,0,–,465275,"clock, couch, person, remote, vase",6
+COCO_val2014_000000465346,12.058069,2.7724204,2,1,cup,465346,"dining table, fork, knife, sandwich, spoon",6
+COCO_val2014_000000465418,9.578225,10.154046,7,1,handbag,465418,"bus, person, traffic light",10
+COCO_val2014_000000467176,11.5888815,6.854703,4,0,–,467176,"book, chair, couch, cup, person, remote, tv",30
+COCO_val2014_000000467887,11.616724,6.533652,4,0,–,467887,"chair, couch, dining table, laptop, mouse, person",9
+COCO_val2014_000000468169,3.6728826,7.0907726,6,1,chair,468169,"baseball bat, bench, person, sports ball",7
+COCO_val2014_000000468934,12.0252495,3.7345364,2,0,–,468934,"banana, dining table, fork, person",4
+COCO_val2014_000000468997,3.2557967,6.794402,6,0,–,468997,"baseball bat, baseball glove, person, sports ball",19
+COCO_val2014_000000470699,7.5958214,7.8731985,5,0,–,470699,"dog, person, surfboard",3
+COCO_val2014_000000472143,10.506241,8.766327,1,2,"bowl, potted plant",472143,"backpack, bench, bird, car, chair, dining table, fork, handbag, person",29
+COCO_val2014_000000472375,8.951725,5.7819695,0,0,–,472375,"cup, dog, motorcycle",4
+COCO_val2014_000000473199,9.416977,9.833068,7,0,–,473199,"chair, dining table, handbag, person, potted plant, umbrella",24
+COCO_val2014_000000474741,11.288131,5.870219,0,1,cup,474741,"backpack, clock, handbag, person, tie, vase",6
+COCO_val2014_000000477598,8.871093,6.2537627,0,0,–,477598,"dog, frisbee, person",3
+COCO_val2014_000000478736,9.220426,9.839955,7,2,"parking meter, truck",478736,"car, stop sign, traffic light",9
+COCO_val2014_000000480122,13.47625,5.6341834,3,2,cup,480122,"banana, bottle, bowl, chair, dining table, knife, oven, refrigerator, sink, spoon",21
+COCO_val2014_000000482275,11.815236,5.6670585,0,0,–,482275,"cake, cup, knife, person, tie, vase",19
+COCO_val2014_000000482476,10.941398,8.27398,1,0,–,482476,"cell phone, handbag, person",3
+COCO_val2014_000000482829,3.551376,8.186217,6,0,–,482829,"person, sports ball, tennis racket",4
+COCO_val2014_000000485485,8.435135,7.7862477,1,0,–,485485,"car, elephant, person",5
+COCO_val2014_000000485564,3.9477186,7.5053954,6,0,–,485564,"car, person, sports ball",9
+COCO_val2014_000000489728,12.397384,7.7059674,4,1,cup,489728,"bed, book, bowl, laptop, person, tv",11
+COCO_val2014_000000493753,12.615335,8.317497,4,0,–,493753,"bottle, chair, cup, keyboard, laptop, mouse, remote, tv",12
+COCO_val2014_000000495311,11.007963,9.934136,5,0,–,495311,"airplane, person, truck",3
+COCO_val2014_000000497599,11.155055,7.8917046,0,0,–,497599,"chair, laptop, person",8
+COCO_val2014_000000498100,12.799975,6.9658237,3,0,–,498100,vase,2
+COCO_val2014_000000498374,13.922493,6.2412596,3,1,vase,498374,"person, sink, toilet",3
+COCO_val2014_000000498759,5.8322964,7.5072246,5,2,truck,498759,"car, person, skateboard",11
+COCO_val2014_000000499105,3.9346702,8.025674,6,0,–,499105,"person, sports ball, tennis racket",3
+COCO_val2014_000000500257,11.042064,9.725179,7,0,–,500257,"backpack, person, suitcase, tv",31
+COCO_val2014_000000500473,9.928538,7.306354,2,1,bowl,500473,"apple, broccoli, carrot, handbag, orange, person",19
+COCO_val2014_000000500680,10.548974,7.0526714,2,0,–,500680,"dining table, handbag, person",9
+COCO_val2014_000000501294,11.696005,6.745575,4,2,chair,501294,"couch, person, tv",5
+COCO_val2014_000000501652,10.581731,5.6977944,0,0,–,501652,"car, cell phone, person",4
+COCO_val2014_000000501898,3.5655928,8.207183,6,0,–,501898,"bench, bottle, person, sports ball, tennis racket",6
+COCO_val2014_000000505335,8.85613,8.417268,1,1,handbag,505335,"bottle, person, tie, umbrella",33
+COCO_val2014_000000505542,10.209589,10.491384,7,0,–,505542,"car, person, train",4
+COCO_val2014_000000505933,10.135546,9.86877,7,0,–,505933,"car, train, truck",16
+COCO_val2014_000000506178,11.240182,6.0864954,0,2,car,506178,"bed, person, remote",5
+COCO_val2014_000000506483,10.028283,9.231574,1,5,"chair, dining table, truck",506483,"backpack, bench, car, person",6
+COCO_val2014_000000510138,11.483588,6.330398,4,3,"chair, oven",510138,"bottle, cell phone, couch, dining table, laptop, person, wine glass",8
+COCO_val2014_000000511341,10.077004,8.770481,1,0,–,511341,"backpack, car, umbrella",3
+COCO_val2014_000000511622,11.395056,4.483238,0,3,"dining table, oven",511622,"bowl, cup, person, scissors, spoon",7
+COCO_val2014_000000513136,12.606755,3.3170085,2,1,bottle,513136,"cup, dining table, pizza",3
+COCO_val2014_000000514248,9.130679,9.691112,1,1,truck,514248,"car, fire hydrant, horse, person",10
+COCO_val2014_000000514292,9.808328,5.578585,0,0,–,514292,"book, teddy bear",2
+COCO_val2014_000000515820,10.177991,10.370876,7,0,–,515820,"bench, clock, person, tv",6
+COCO_val2014_000000515904,13.84148,6.314948,3,0,–,515904,"potted plant, sink, toilet, vase",7
+COCO_val2014_000000516601,6.3665376,8.255806,5,0,–,516601,"person, skis, snowboard",19
+COCO_val2014_000000516916,12.552541,8.3884735,4,1,bottle,516916,"cell phone, chair, keyboard, laptop, mouse, tv",10
+COCO_val2014_000000518177,12.865544,4.730373,2,1,dining table,518177,"microwave, oven",2
+COCO_val2014_000000520524,9.3609,8.336634,1,1,chair,520524,"bicycle, car, motorcycle",3
+COCO_val2014_000000521643,12.390556,7.0135803,0,0,–,521643,vase,1
+COCO_val2014_000000524979,10.520724,5.4414477,0,0,–,524979,"baseball glove, dog, person, sports ball",4
+COCO_val2014_000000525667,8.995475,8.7031,1,0,–,525667,"bench, bicycle, cup, dining table, person",17
+COCO_val2014_000000526321,12.473757,8.030657,4,0,–,526321,"book, cell phone, keyboard, laptop, mouse, remote, tv",9
+COCO_val2014_000000526368,12.192815,8.11853,4,0,–,526368,"book, chair, laptop",5
+COCO_val2014_000000528136,9.817356,9.153388,1,1,traffic light,528136,"bus, person, truck",16
+COCO_val2014_000000528905,4.305068,7.509247,6,1,truck,528905,"car, frisbee, person",5
+COCO_val2014_000000529668,10.388612,8.210959,0,0,–,529668,"cell phone, handbag, person",3
+COCO_val2014_000000533201,11.085579,9.817531,7,0,–,533201,"airplane, person, truck",8
+COCO_val2014_000000534121,13.494419,5.930387,3,0,–,534121,"boat, book, chair, couch, cup, tv",9
+COCO_val2014_000000534516,8.730434,9.014745,1,0,–,534516,"person, tie, traffic light",15
+COCO_val2014_000000534942,9.086887,5.007269,0,1,couch,534942,"bed, cat",2
+COCO_val2014_000000536073,11.385481,3.8940752,2,0,–,536073,"bottle, cup, knife",3
+COCO_val2014_000000538054,9.699414,7.489051,1,1,backpack,538054,"banana, handbag, person",5
+COCO_val2014_000000538236,12.080452,3.3999293,2,0,–,538236,"handbag, hot dog, person",14
+COCO_val2014_000000539251,11.461976,6.3224697,4,0,–,539251,"person, potted plant, sink",5
+COCO_val2014_000000541783,8.836141,7.7993402,1,0,–,541783,"backpack, motorcycle, person",5
+COCO_val2014_000000542145,13.934625,6.2740583,3,0,–,542145,"bottle, sink, toilet, toothbrush",6
+COCO_val2014_000000543393,9.21692,9.592892,7,1,truck,543393,"car, fire hydrant, stop sign",14
+COCO_val2014_000000544456,5.89787,8.387174,5,0,–,544456,"backpack, person, skis",13
+COCO_val2014_000000545353,11.918098,4.5448446,2,1,bottle,545353,"person, pizza",2
+COCO_val2014_000000549390,8.880432,8.605211,1,1,handbag,549390,"backpack, bicycle, person",19
+COCO_val2014_000000550514,5.9825025,8.483834,5,0,–,550514,"backpack, person, skis, snowboard",19
+COCO_val2014_000000550691,10.098011,9.745992,7,0,–,550691,"bus, car, person, tie",8
+COCO_val2014_000000551881,13.701142,5.631272,3,0,–,551881,"book, chair, handbag, potted plant, refrigerator",5
+COCO_val2014_000000551908,11.693754,3.114539,2,0,–,551908,"broccoli, carrot, dining table",15
+COCO_val2014_000000553165,7.64962,7.856222,5,0,–,553165,"bird, boat, person",12
+COCO_val2014_000000553992,11.519133,7.120442,4,0,–,553992,"chair, person, remote, tie, tv",12
+COCO_val2014_000000554002,9.002256,7.2766647,1,0,–,554002,"chair, dog, handbag, person",14
+COCO_val2014_000000554328,3.4302316,6.57488,6,0,–,554328,"baseball glove, person, sports ball",6
+COCO_val2014_000000555538,3.5249684,6.9176316,6,0,–,555538,"baseball bat, baseball glove, person",15
+COCO_val2014_000000557016,9.314547,8.350322,1,0,–,557016,"car, cow, motorcycle, person",12
+COCO_val2014_000000559547,3.456435,6.6101704,6,2,car,559547,"baseball bat, baseball glove, person, sports ball",6
+COCO_val2014_000000560064,10.630657,6.9689994,0,3,"chair, dining table",560064,"bench, donut, person, potted plant",9
+COCO_val2014_000000560744,11.88415,4.2951875,0,0,–,560744,"book, bottle, bowl, chair, cup, dining table, knife, person, spoon, wine glass",39
+COCO_val2014_000000562155,10.305339,5.6631804,0,0,–,562155,"person, tie",3
+COCO_val2014_000000564336,10.673588,7.908415,1,4,"backpack, handbag",564336,"bottle, car, chair, dining table, laptop, parking meter, person, truck",15
+COCO_val2014_000000564511,11.553116,4.828305,0,0,–,564511,"bottle, cup, oven, person, pizza, wine glass",12
+COCO_val2014_000000565941,11.752692,4.7215075,0,1,spoon,565941,"bottle, cake, chair, cup, dining table, person",12
+COCO_val2014_000000567886,12.007015,6.075151,4,1,bear,567886,"book, person, teddy bear",5
+COCO_val2014_000000569839,10.640082,5.26885,0,2,"backpack, handbag",569839,"chair, cup, dining table, hot dog, person, sandwich",8
+COCO_val2014_000000572075,8.966845,5.1795216,0,0,–,572075,"cat, toilet",2
+COCO_val2014_000000572260,12.393799,6.5897713,0,2,"bear, car",572260,"apple, book, cup, teddy bear, wine glass",12
+COCO_val2014_000000573796,12.347148,7.20189,0,0,–,573796,"apple, dining table, knife",4
+COCO_val2014_000000574057,13.520234,6.400066,3,1,backpack,574057,bed,1
+COCO_val2014_000000574454,7.353543,7.935644,5,0,–,574454,"kite, person, surfboard",6
+COCO_val2014_000000574692,10.01719,7.1677036,1,0,–,574692,"bottle, orange, person",28
+COCO_val2014_000000574790,9.1923,9.786567,7,0,–,574790,"car, traffic light, truck",22
+COCO_val2014_000000575355,13.102304,6.61963,3,3,cup,575355,"bench, chair, dining table",3
+COCO_val2014_000000575755,12.17403,2.912177,2,0,–,575755,"broccoli, carrot, sandwich",3
+COCO_val2014_000000579231,3.4236155,6.8373713,6,0,–,579231,"baseball bat, baseball glove, person",5
+COCO_val2014_000000579277,9.519106,8.137687,1,2,"bicycle, broccoli",579277,"carrot, motorcycle, person",10
+COCO_val2014_000000579415,10.3578205,8.91835,1,2,car,579415,"bus, handbag, person, traffic light, umbrella",35
+COCO_val2014_000000580294,11.795148,4.3889117,2,0,–,580294,"bowl, cup, oven, person, sink, spoon, toothbrush",9

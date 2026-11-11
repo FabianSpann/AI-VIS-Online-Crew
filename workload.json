@@ -1,0 +1,25 @@
+{
+    "team_name": "Online Crew",
+    "students": [
+        {
+            "first_name": "Muhammad Ejaz Habib",
+            "last_name": "Dar",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Muhammad",
+            "last_name": "Abdullah",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Fabian",
+            "last_name": "Spann",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Ronald",
+            "last_name": "Pohl",
+            "workload": 0.25
+        }
+    ]
+}
